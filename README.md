@@ -21,6 +21,7 @@ Objectives
 
 Project Structure
 -----------------
+```
 hotel-booking-project/
 ├── data/
 │   └── hotel_bookings.csv
@@ -30,6 +31,8 @@ hotel-booking-project/
 │   └── app.py
 ├── requirements.txt
 └── README.txt
+```
+
 
 Dataset
 -------
