@@ -557,7 +557,7 @@ def main():
     elif page == "Key Takeaways":
         key_takeaways_page(df)
     else:
-        st.write("Page not found.")
+        st.write("Page not found...")
 
     st.write("---")
     st.markdown("<small class='small-muted'>Built for IDS f24 — ensure saved pipeline includes preprocessing so the Predictor operates correctly.</small>", unsafe_allow_html=True)
